@@ -1,0 +1,8 @@
+.Movie {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+}
+.item{
+    max-width: 270px;
+}
